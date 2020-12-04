@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tables>
+  <table p2:name="" xmlns:p2="xxxxx">
+    <id>2</id>
+    <numberofclumns>7</numberofclumns>
+    <details>0</details>
+    <name>xxxxx</name>
+    <datatybe>double </datatybe>
+    <allownull>primarykey</allownull>
+    <details>1</details>
+    <name>xxxxx</name>
+    <datatybe>double </datatybe>
+    <allownull>primarykey</allownull>
+    <details>2</details>
+    <name>xxxxx</name>
+    <datatybe>double </datatybe>
+    <allownull>primarykey</allownull>
+    <details>3</details>
+    <name>xxxxx</name>
+    <datatybe>double </datatybe>
+    <allownull>primarykey</allownull>
+    <details>4</details>
+    <name>xxxxx</name>
+    <datatybe>double </datatybe>
+    <allownull>primarykey</allownull>
+    <details>5</details>
+    <name>xxxxx</name>
+    <datatybe>double </datatybe>
+    <allownull>primarykey</allownull>
+  </table>
+  <table name="xxxxx">
+    <id>3</id>
+    <numberofclumns>6</numberofclumns>
+    <details>0</details>
+    <name>xxxxx</name>
+    <datatype>double </datatype>
+    <allownull>True</allownull>
+    <details>1</details>
+    <name>xxxxx</name>
+    <datatype>double </datatype>
+    <allownull>True</allownull>
+    <details>2</details>
+    <name>xxxxx</name>
+    <datatype>double </datatype>
+    <allownull>True</allownull>
+    <details>3</details>
+    <name>xxxxx</name>
+    <datatype>double </datatype>
+    <allownull>True</allownull>
+    <details>4</details>
+    <name>xxxxx</name>
+    <datatype>double </datatype>
+    <allownull>True</allownull>
+  </table>
+</tables>

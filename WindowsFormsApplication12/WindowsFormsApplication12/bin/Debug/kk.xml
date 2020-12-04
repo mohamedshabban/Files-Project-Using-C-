@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tables>
+  <table p2:name="" xmlns:p2="mohamed">
+    <id>2</id>
+    <numberofclumns>4</numberofclumns>
+    <details>0</details>
+    <name>moj'</name>
+    <datatybe />
+  </table>
+  <table name="mohamed">
+    <id>3</id>
+    <numberofclumns>4</numberofclumns>
+    <details>0</details>
+    <name>j\</name>
+    <datatype>float</datatype>
+    <allownull>True</allownull>
+    <details>1</details>
+    <name>jkh</name>
+    <datatype>float</datatype>
+    <allownull>True</allownull>
+    <details>2</details>
+    <name>jh</name>
+    <datatype>float</datatype>
+    <allownull>True</allownull>
+  </table>
+  <table name="name">
+    <id>4</id>
+    <numberofclumns>4</numberofclumns>
+    <details>0</details>
+    <name>jkz</name>
+    <datatype>float</datatype>
+    <allownull>True</allownull>
+    <details>1</details>
+    <name>kjn</name>
+    <datatype>double </datatype>
+    <allownull>True</allownull>
+    <details>2</details>
+    <name>zjkb</name>
+    <datatype>double </datatype>
+    <allownull>True</allownull>
+  </table>
+  <table name="name">
+    <id>5</id>
+    <numberofclumns>3</numberofclumns>
+    <details>0</details>
+    <name>jks</name>
+    <datatype>float</datatype>
+    <allownull>True</allownull>
+    <details>1</details>
+    <name>jkn</name>
+    <datatype>double </datatype>
+    <allownull>True</allownull>
+  </table>
+</tables>

@@ -1,0 +1,18 @@
+c:\users\user\documents\visual studio 2010\Projects\WindowsFormsApplication12\WindowsFormsApplication12\bin\Debug\WindowsFormsApplication12.exe
+c:\users\user\documents\visual studio 2010\Projects\WindowsFormsApplication12\WindowsFormsApplication12\bin\Debug\WindowsFormsApplication12.pdb
+c:\users\user\documents\visual studio 2010\Projects\WindowsFormsApplication12\WindowsFormsApplication12\obj\x86\Debug\WindowsFormsApplication12.Form1.resources
+c:\users\user\documents\visual studio 2010\Projects\WindowsFormsApplication12\WindowsFormsApplication12\obj\x86\Debug\WindowsFormsApplication12.Properties.Resources.resources
+c:\users\user\documents\visual studio 2010\Projects\WindowsFormsApplication12\WindowsFormsApplication12\obj\x86\Debug\WindowsFormsApplication12.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2010\Projects\WindowsFormsApplication12\WindowsFormsApplication12\obj\x86\Debug\WindowsFormsApplication12.exe
+c:\users\user\documents\visual studio 2010\Projects\WindowsFormsApplication12\WindowsFormsApplication12\obj\x86\Debug\WindowsFormsApplication12.pdb
+C:\Users\User\documents\visual studio 2010\Projects\WindowsFormsApplication12\WindowsFormsApplication12\obj\x86\Debug\WindowsFormsApplication12.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2010\Projects\WindowsFormsApplication12\WindowsFormsApplication12\obj\x86\Debug\WindowsFormsApplication12.Information.resources
+E:\WindowsFormsApplication12\WindowsFormsApplication12\WindowsFormsApplication12\obj\x86\Debug\WindowsFormsApplication12.exe
+E:\WindowsFormsApplication12\WindowsFormsApplication12\WindowsFormsApplication12\obj\x86\Debug\WindowsFormsApplication12.pdb
+E:\WindowsFormsApplication12\WindowsFormsApplication12\WindowsFormsApplication12\bin\Debug\WindowsFormsApplication12.exe
+E:\WindowsFormsApplication12\WindowsFormsApplication12\WindowsFormsApplication12\bin\Debug\WindowsFormsApplication12.pdb
+E:\WindowsFormsApplication12\WindowsFormsApplication12\WindowsFormsApplication12\obj\x86\Debug\WindowsFormsApplication12.csprojResolveAssemblyReference.cache
+E:\WindowsFormsApplication12\WindowsFormsApplication12\WindowsFormsApplication12\obj\x86\Debug\WindowsFormsApplication12.Form1.resources
+E:\WindowsFormsApplication12\WindowsFormsApplication12\WindowsFormsApplication12\obj\x86\Debug\WindowsFormsApplication12.Information.resources
+E:\WindowsFormsApplication12\WindowsFormsApplication12\WindowsFormsApplication12\obj\x86\Debug\WindowsFormsApplication12.Properties.Resources.resources
+E:\WindowsFormsApplication12\WindowsFormsApplication12\WindowsFormsApplication12\obj\x86\Debug\WindowsFormsApplication12.csproj.GenerateResource.Cache

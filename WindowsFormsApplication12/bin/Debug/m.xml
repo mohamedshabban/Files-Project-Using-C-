@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tables>
+  <table p2:name="" xmlns:p2="ahmed">
+    <id>2</id>
+    <numberofclumns>1</numberofclumns>
+    <details>0</details>
+    <name>a</name>
+    <datatybe>double </datatybe>
+    <allownull>primarykey</allownull>
+  </table>
+  <table name="ahmed2">
+    <id>7</id>
+    <numberofclumns>2</numberofclumns>
+    <details>0</details>
+    <name>j</name>
+    <datatype>int </datatype>
+    <allownull>True</allownull>
+    <details>1</details>
+    <name>a</name>
+    <datatype>char </datatype>
+    <allownull>primarykey</allownull>
+  </table>
+</tables>
